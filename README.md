@@ -1,6 +1,6 @@
-# F4_Classification
+# F4 Classification and similarity analyses in neuroscience
 
-## Code for the Foundations in Neuroscience IV class on classification
+## Code for the Foundations in Neuroscience IV class on classification and similarity analyses
 ### by Michael W. Cole
 
 Instructions: Download the .ipynb file, run "jupyter notebook" from the command line, load .ipynb file
